@@ -1,6 +1,6 @@
  ## Olá! Eu sou o Lucas Uemura
 
- ## Status GitHub
+ ## Estatísticas
 <div>
   <a href="https://github.com/lucasuemura">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasuemura&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-###
+## Linguagens e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ae,pr,ps,blender)](https://skillicons.dev)
 
 ## Redes Sociais
