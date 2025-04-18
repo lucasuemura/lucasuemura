@@ -3,8 +3,8 @@
  ## Estatísticas
 <div>
   <a href="https://github.com/lucasuemura">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasuemura&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuemura&layout=compact&langs_count=16&theme=onedark"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lucasuemura&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasuemura&layout=compact&langs_count=16&theme=onedark"/>
   </a>
 </div>
 
