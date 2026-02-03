@@ -14,14 +14,33 @@ Estou sempre em evolução na área de tecnologia, estudando continuamente e bus
 
 ## Linguagens e Tecnologias
 
-### Habilidades Principais
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
+<table><tr><td valign="top" width="25%">
 
+### Front-end  
+<a href="https://github.com/lucasuemura">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
 ### Estudando
-[![My Skills](https://skillicons.dev/icons?i=react,c,python,aws)](https://skillicons.dev)
+<a href="https://github.com/lucasuemura">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,cpp,react,aws&perline=4" /> 
+</div>
+</a>
 
-### Outras Habilidades
-[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender)](https://skillicons.dev)
+</td><td valign="top" width="25%">
+  
+### Outros
+<a href="https://github.com/lucasuemura">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ae,pr,ps,blender&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
 ## Redes Sociais
 <div>
