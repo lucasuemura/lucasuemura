@@ -1,11 +1,7 @@
 ## Olá! Eu sou o Lucas Uemura
 
-#
-
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniCesumar.
 Estou sempre em evolução na área de tecnologia, estudando continuamente e buscando novos desafios. Gosto de transformar aprendizado em prática e usar isso para desenvolver soluções eficientes.
- 
-#
 
 ## Linguagens e Tecnologias
 
@@ -13,7 +9,7 @@ Estou sempre em evolução na área de tecnologia, estudando continuamente e bus
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
 ### Estudando
-[![My Skills](https://skillicons.dev/icons?i=reactjs,c,python,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,c,python,aws)](https://skillicons.dev)
 
 ### Outras Habilidades
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender)](https://skillicons.dev)
