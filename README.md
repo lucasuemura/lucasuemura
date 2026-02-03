@@ -9,12 +9,17 @@
 </div>
 
 ## Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,ae,pr,ps,blender)](https://skillicons.dev)
+
+### Habilidades Principais
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### Estudando
+[![My Skills](https://skillicons.dev/icons?i=c,c++,python,aws)](https://skillicons.dev)
+
+### Outras Habilidades
+[![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender)](https://skillicons.dev)
 
 ## Redes Sociais
 <div>
-  <!--<a href="https://www.instagram.com/_lucasuemura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>--!>
- 
   <a href="https://www.linkedin.com/in/lucasuemura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
