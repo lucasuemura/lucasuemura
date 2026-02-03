@@ -1,5 +1,15 @@
-## Olá! Eu sou o Lucas Uemura
+# Olá! Eu sou o Lucas Uemura
 
+<pre>
+                                           ______     ______     __    __     __   __   __     __   __     _____     ______    
+                                          /\  == \   /\  ___\   /\ "-./  \   /\ \ / /  /\ \   /\ "-.\ \   /\  __-.  /\  __ \   
+                                          \ \  __<   \ \  __\   \ \ \-./\ \  \ \ \'/   \ \ \  \ \ \-.  \  \ \ \/\ \ \ \ \/\ \  
+                                           \ \_____\  \ \_____\  \ \_\ \ \_\  \ \__|    \ \_\  \ \_\\"\_\  \ \____-  \ \_____\ 
+                                            \/_____/   \/_____/   \/_/  \/_/   \/_/      \/_/   \/_/ \/_/   \/____/   \/_____/ 
+                                                                                                                               
+<pre>
+
+                                                                
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniCesumar.
 Estou sempre em evolução na área de tecnologia, estudando continuamente e buscando novos desafios. Gosto de transformar aprendizado em prática e usar isso para desenvolver soluções eficientes.
 
