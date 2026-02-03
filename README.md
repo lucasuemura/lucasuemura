@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### Estudando
-[![My Skills](https://skillicons.dev/icons?i=c,c++,python,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c#,python,aws)](https://skillicons.dev)
 
 ### Outras Habilidades
 [![My Skills](https://skillicons.dev/icons?i=ae,pr,ps,blender)](https://skillicons.dev)
