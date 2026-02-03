@@ -9,6 +9,7 @@
                                                                                                              
 <pre>
 
+#
                                                                 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniCesumar.
 Estou sempre em evolução na área de tecnologia, estudando continuamente e buscando novos desafios. Gosto de transformar aprendizado em prática e usar isso para desenvolver soluções eficientes.
