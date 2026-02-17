@@ -9,7 +9,7 @@
                                                                                                              
 </pre>
                                                                 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UniCesumar.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cesumar.
 Estou sempre em evolução na área de tecnologia, estudando continuamente e buscando novos desafios. Gosto de transformar aprendizado em prática e usar isso para desenvolver soluções eficientes.
 
 ## Linguagens e Tecnologias
