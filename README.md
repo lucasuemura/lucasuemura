@@ -27,7 +27,7 @@ Estou sempre em evolução na área de tecnologia, estudando continuamente e bus
 ### Estudando
 <a href="https://github.com/lucasuemura">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,cpp,react,aws&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,java,react,aws&perline=4" /> 
 </div>
 </a>
 
