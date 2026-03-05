@@ -9,7 +9,7 @@
                                                                                                              
 </pre>
                                                                 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cesumar. Atualmente, foco meus estudos no desenvolvimento front-end, unindo a base teórica da faculdade com o aprendizado prático através do <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>. Estou sempre em evolução na área de tecnologia, buscando transformar novos conceitos em prática para desenvolver soluções eficientes e encarar novos desafios.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cesumar. Atualmente, foco meus estudos no desenvolvimento front-end, unindo a base teórica da faculdade com o aprendizado prático através do <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a>. Estou sempre em evolução na área de tecnologia, buscando transformar novos conceitos em prática para desenvolver soluções eficientes e encarar novos desafios.
 
 ## Linguagens e Tecnologias
 
